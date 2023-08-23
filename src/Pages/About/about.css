@@ -1,0 +1,79 @@
+.about {
+    /* margin-top: 60px; */
+    flex: 3;
+    margin: 70px;
+    padding-bottom: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aboutDescription {
+    font-style: italic;
+    color: rgba(43, 43, 43, 0.89);
+    letter-spacing: 1px;
+    font-size: 20px;
+    line-height: 1.6;
+
+}
+
+.aboutHeaderText {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.aboutHeaderTextLT {
+    font-size: 40px;
+    padding-left: 20px;
+    margin-bottom: 0px;
+    color: rgb(26, 26, 26);
+}
+
+.aboutHeaderTextST {
+    font-size: 20px;
+    padding-left: 20px;
+    color: rgb(135, 135, 135);
+}
+
+.headrDescAbout {
+    margin-top: 30px;
+    padding: 20px 100px 20px 100px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.aboutDes {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerImgAbout {
+    padding: 20px 40px;
+    width: 500px;
+    height: 300px;
+}
+
+.aboutDesText {
+    font-size: 20px;
+    padding: 30px 50px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.desAboutHeader {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(61, 61, 61);
+}
+
+.desAboutText {
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 1.6;
+}
